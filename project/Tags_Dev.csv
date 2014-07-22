@@ -1,0 +1,8 @@
+Tag,Description,Value,Data Type,Host,Rio,Bound Address,I/O Channel,Average Value,SP,HH,H,L,LL
+TI101,Thermocouple,,Double,Read,Write,T1,Mod3\AI0,F,,1,1,,
+TI102,Thermocouple,,Double,Read,Write,T2,Mod3\AI1,F,1,,,1,1
+PI101,Pressure Transducer,,Double,Read,Write,P1,,T,1,1,1,1,1
+PI102,Thermocouple,,Double,Read,Write,P2,,T,,1,1,,
+XV101,Solenoid Valve,,Boolean,Write,Read,XV1,,F,,,,,
+XV102,Solenoid Valve,,Boolean,write,,XV2,,F,,,,,
+ClearAlarm,Reset,,Boolean,Write,,CLEAR,,F,,,,,

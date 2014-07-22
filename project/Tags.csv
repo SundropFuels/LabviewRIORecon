@@ -1,0 +1,7 @@
+TI101,Thermocouple,,Double,Read,T1,Mod3\AI0,F
+TI102,Pressure Transducer,,Double,Read,T2,Mod3\AI1,F
+XV101,Solenoid Valve,,Boolean,Write,XV1,,F
+TI101HH,HIHI Alarm TI101,,Boolean,Read,AHH,,F
+TI101HHSP,alarm Set point,,Double,Write,ASP,,F
+ClearAlarm,Reset,,Boolean,Write,CLEAR,,F
+Process,status of process,,String,Read,process,,F
